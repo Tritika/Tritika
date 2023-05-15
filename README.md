@@ -1,14 +1,16 @@
 Hello and welcome, 
 
-In 2021, I enrolled myself in a full-time data science course and travelled from Madhya Pradesh to Tamil Nadu to start my life as a hosteller. And now it has been 6 months for this new phase - new place part of my life. 
+In 2021, I enrolled myself in a full-time data science course and travelled from Madhya Pradesh to Tamil Nadu to start my life as a hosteller. Although not an expert, I surely know a little more about the umbrella term 'data science'. 
 
-Although not an expert, I surely know a little more about the umbrella term 'data science'. So far, I have developed theoretical understanding of linear algebra, probability distributions, hypothesis testing, and ML algorithms namely, Apriori, Decision Trees, Support Vector Machines (SVM), K-Nearest Neighbors, K-Means, among others. I have completed an EDA project on the Global Terrorism Database (GTD) in a team of 3, and a micro-EDA assignment on COVID-19 dataset. 
+So far, I have developed understanding of concepts like linear algebra, probability distributions, hypothesis testing, and data mining algorithms namely, Apriori, Decision Trees, Support Vector Machines (SVM), K-Nearest Neighbors, K-Means, among others. I have completed an <a href='https://github.com/Tritika/Exploratory-Data-Analysis-'>EDA project on the Global Terrorism Database (GTD)</a> in a team of 3, a <a href='https://github.com/Tritika/Assignments/blob/main/EDA_Cowin-checkpoint.ipynb'>micro-EDA assignment on COVID-19 dataset</a>, and an <a href='https://github.com/Tritika/Equity-Portfolio-Miniature-Model'>Equity Generation Potfolio: Miniature Model</a> along with a peer. I also have a long running history with <a href='https://github.com/Tritika/Recommender-Systems'>recommendation systems</a>. I am still on my learning curve and have recently added Power BI in my set of skills. It is actually pretty fun ngl! 
 
-Over the past few months, I have noted my developing interest in machine learning and a growing enthusiasm for image analysis (the seed for which was planted during a blind shot in MANTHAN 2020, a national level hackathon, on the theme of Suspicious Activity Identification and Facial Recognition). While decluttering and delegating have emerged as my strengths besides communication, I realized I need to work on time management to keep a balance between work and life. 
+Check out my projects and assignments. Head over to my linkedin and see what I've been up to. 
 
-Although still on my learning curve, I feel the urge to take on a role where I can not only use but also expand my existing set of knowledge and skills. If you are in a position to provide me such an opportunity, I humbly invite you to contact me. 
+I also have an instagram page where I encourage the spread of individualism. I basically talk to people and then document my conversation with them as an IG Post. You can check that out over here: <a href = 'https://www.instagram.com/nosnoozezone/'>NoSnoozeZone</a> 
 
-Thank you for visiting my profile!
+See anything you like? Let's connect!
+
+Glad to have you here!
 
 <!---
 Tritika/Tritika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
